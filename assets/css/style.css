@@ -1,0 +1,59 @@
+
+
+body {
+  
+  font-size: 30pt;
+  color: #FCFCFC;
+}
+
+#title-off{
+  position:absolute;
+  text-align: center;
+  z-index:1;
+}
+
+div .title-text{
+  font-size: 50pt;
+  margin-top:29%;
+}
+
+.thumbnail{
+  border: 0;
+  background-color: black;
+}
+
+
+.title-word{
+  position:absolute;
+  z-index: 1;
+  left: 25%;
+  bottom: 19%;
+  color: #E75A10;
+  font-size: 20pt;
+}
+
+.title-guess{
+  position:absolute;
+  z-index: 1;
+  right: 29%;
+  bottom: 19%;
+  color: #E75A10;
+  font-size: 20pt;
+}
+
+
+#hangman{
+  background-color: white;
+}
+
+.panel-default{
+  border:6px solid #2038EC;
+}
+
+.panel-body{
+  background:black;
+}
+
+h1{ color: black;
+    text-align:center;
+    })
